@@ -8,7 +8,7 @@
 |СЕМЕСТР|1 семестр, 2025/2026 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/astafiev-rustam/applied-mathematics/tree/master
+https://github.com/astafiev-rustam/applied-mathematics/tree/lecture-1-1
 
 # Лекция №1: Теория графов и иерархий
 
